@@ -1,18 +1,21 @@
 ### Oieeee✨
-🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
+                              🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
 
-Bem-vindo a minha baguncinha de estudos e experiências.
-Sinta-se à vontade para contribuir e aprender comigo!
+                                Bem-vindo a minha baguncinha de estudos e experiências.
+                                Sinta-se à vontade para contribuir e aprender comigo!
 
-🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
-👑 Diademense
+                              🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
 
-🌸🌸 23 primarevas 🌸🌸
 
-👩‍💻 Desenvolvedora Front-End
+                                                   👑 Diademense
 
-📚 formada em Ciência da Computação
+                                               🌸🌸 23 primarevas 🌸🌸
 
-🌻🌿🌼 mãe de muitas plantinhas💕
+                                            👩‍💻 Desenvolvedora Front-End
 
-🏊‍♀️ Nadadora 🎨 desenhista 🎵 musicófila 💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
+                                          📚 formada em Ciência da Computação
+
+                                           🌻🌿🌼 mãe de muitas plantinhas💕
+
+                                          🏊‍♀️ Nadadora 🎨 desenhista 🎵 musicófila 
+                              💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
