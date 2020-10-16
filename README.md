@@ -1,7 +1,9 @@
 ### Oieeee✨
 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
+
 Bem-vindo a minha baguncinha de estudos e experiências.
 Sinta-se à vontade para contribuir e aprender comigo!
+
 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
 👑 Diademense
 
