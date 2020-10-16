@@ -18,4 +18,4 @@
                                            🌻🌿🌼 mãe de muitas plantinhas💕
 
                                           🏊‍♀️ Nadadora 🎨 desenhista 🎵 musicófila 
-                              💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
+                             💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
