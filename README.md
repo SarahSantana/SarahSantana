@@ -5,7 +5,7 @@ Sinta-se à vontade para contribuir e aprender comigo!
 
 👑 Diademense
 
-🌸 23 primarevas
+🌸🌸 23 primarevas 🌸🌸
 
 👩‍💻 Desenvolvedora Front-End
 
