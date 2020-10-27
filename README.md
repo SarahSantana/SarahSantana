@@ -17,9 +17,7 @@ Sinta-se à vontade para contribuir e aprender comigo!
 
 📚 formada em Ciência da Computação
 
-🌻🌿🌼 mãe de muitas plantinhas💕
-
-🏊‍♀️ Nadadora 🎨 desenhista 🎵 musicófila 💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
+🌻🌿🌼 mãe de muitas plantinhas💕 🏊‍♀️ Nadadora 🎨 desenhista 🎵 musicófila 💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSantana)](https://github.com/anuraghazra/github-readme-stats)
 
