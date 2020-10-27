@@ -21,5 +21,5 @@ Sinta-se à vontade para contribuir e aprender comigo!
 
 🏊‍♀️ Nadadora 🎨 desenhista 🎵 musicófila 💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSantana)](https://github.com/anuraghazra/github-readme-stats)
 
