@@ -13,7 +13,7 @@ Sinta-se à vontade para contribuir e aprender comigo!
 
 🌸🌸 23 primarevas 🌸🌸
 
-👩‍💻 Desenvolvedora Front-End 📚 formada em Ciência da Computação ✨ e amo css tenho algumas brincadeiras aqui =) https://codepen.io/sarahsantana
+👩‍💻 Desenvolvedora Front-End 📚 formada em Ciência da Computação ✨ também amo css e tenho algumas brincadeiras aqui =) https://codepen.io/sarahsantana
 
 🌻🌿🌼 mãe de muitas plantinhas💕 🏊‍♀️ Nadadora 🎨 desenhista 🎵 musicófila 💃 dançarina e estudante autodidata de matemática 👩‍🏫 por amor ❣ rsrs
 
