@@ -1,5 +1,5 @@
 ### Hiiiiii ✨
-Thanks for coming 🤗 and be welcome to my learning and experiences environment 😍!
+Thanks for coming 🤗 and be welcome to my learning and experiences environment 😏!
 
 🌻 | age: 23rd spring
 
