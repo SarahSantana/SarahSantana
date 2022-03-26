@@ -5,7 +5,7 @@ Thanks for coming 🤗 and be welcome to my learning and experiences environment
 
 🌻 | age: 24th spring
 
-💻 | stack: Front-End => JavaScript, HTML & CSS among others.
+💻 | stack: Front-End & Back-End => Typescript, HTML & CSS, MongoDB, Nodejs, among others.
 
 🎓 | higher education: Computer Science 
 
