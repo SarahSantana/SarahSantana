@@ -1,5 +1,8 @@
 ## Hiiiiii ✨
 Thanks for coming 🤗 and be welcome to my learning and experiences environment 😏!
+<div>
+  <img align="center" heihgt="180em" alt="girl" src="https://cdn.discordapp.com/attachments/1058518160183144489/1129559726200455188/picasion.com_820d7f25345bc9caef69f937f0d81fee.gif"/>
+</div>
 
 ## About meee:
 
