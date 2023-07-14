@@ -13,8 +13,11 @@ Thanks for coming 🤗 and be welcome to my learning and experiences environment
 
 ✨ | I love css and I've got somethings here => https://codepen.io/sarahsantana
 
-![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahSantana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSantana&layout=compact)
+<div>
+  <img heihgt="180em" src="https://github-readme-stats.vercel.app/api?username=SarahSantana&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img heihgt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSantana&layout=compact"/>
+</div>
+
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; column-gap: 20px">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,4 +40,4 @@ Thanks for coming 🤗 and be welcome to my learning and experiences environment
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-
+![Snake animation](https://github.com/SarahSantana/SarahSantana/blob/output/github-contribution-grid-snake.svg)
