@@ -1,7 +1,7 @@
-### Hiiiiii ✨
+## Hiiiiii ✨
 Thanks for coming 🤗 and be welcome to my learning and experiences environment 😏!
 
-**About meee:**
+## About meee:
 
 🌻 | age: 26th spring
 
