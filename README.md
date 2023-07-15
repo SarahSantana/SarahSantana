@@ -43,4 +43,4 @@ Thanks for coming 🤗 and be welcome to my learning and experiences environment
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-![Snake animation](https://github.com/SarahSantana/SarahSantana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
