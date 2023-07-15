@@ -2,21 +2,22 @@
 Thanks for coming 🤗 and be welcome to my learning and experiences environment 😏!
 
 ## About meee:
-<div>
-  <img align="center" heihgt="180em" alt="girl" src="https://cdn.discordapp.com/attachments/1058518160183144489/1129559726200455188/picasion.com_820d7f25345bc9caef69f937f0d81fee.gif"/>
-</div>
+<div style="float:right">
+    <img align="center" heihgt="180em" alt="girl" src="https://cdn.discordapp.com/attachments/1058518160183144489/1129559726200455188/picasion.com_820d7f25345bc9caef69f937f0d81fee.gif"/>
+  </div>
+  </br>
 
-</br>
+  <div>
 
-🌻 | age: 26th spring
+    💻 | stack: Front-End & Back-End => Typescript, HTML & CSS, MongoDB, Nodejs, among others.
+    
+    🎓 | higher education: Computer Science 
+    
+    🎨 | hobbies: listen to music, read, drawn, swim and study math.
+    
+    ✨ | I love css and I've got somethings here => https://codepen.io/sarahsantana
 
-💻 | stack: Front-End & Back-End => Typescript, HTML & CSS, MongoDB, Nodejs, among others.
-
-🎓 | higher education: Computer Science 
-
-🎨 | hobbies: listen to music, read, drawn, swim and study math.
-
-✨ | I love css and I've got somethings here => https://codepen.io/sarahsantana
+  </div>
 
 <div>
   <img heihgt="180em" src="https://github-readme-stats.vercel.app/api?username=SarahSantana&show_icons=true&theme=radical&include_all_commits=true"/>
