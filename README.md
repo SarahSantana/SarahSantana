@@ -1,12 +1,10 @@
-## Hiiiiii ✨
-Thanks for coming 🤗 and be welcome to my learning and experiences environment 😏!
-
-## About meee:
+## ✨ Thanks for coming 🤗 and be welcome to my learning and experiences environment 😏!
 <div style="float:right">
     <img align="center" heihgt="180em" alt="girl" src="https://cdn.discordapp.com/attachments/1058518160183144489/1129559726200455188/picasion.com_820d7f25345bc9caef69f937f0d81fee.gif"/>
   </div>
   </br>
 
+## 💁🏻‍♀️ About me:
   <div>
 
     💻 | stack: Front-End & Back-End => Typescript, HTML & CSS, MongoDB, Nodejs, among others.
@@ -19,12 +17,9 @@ Thanks for coming 🤗 and be welcome to my learning and experiences environment
 
   </div>
 
-<div>
-  <img heihgt="180em" src="https://github-readme-stats.vercel.app/api?username=SarahSantana&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img heihgt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSantana&layout=compact"/>
-</div>
+## 💻 Technologies & Tools
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; column-gap: 20px">
+<p align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -44,4 +39,14 @@ Thanks for coming 🤗 and be welcome to my learning and experiences environment
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+</p>
+
+## ⭐ GitHub Stats
+<p>
+  <img heihgt="180em" src="https://github-readme-stats.vercel.app/api?username=SarahSantana&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img heihgt="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SarahSantana&theme=radical&hide_border=true" />
+  <img heihgt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSantana&theme=radical&show_icons=true&hide_border=true&layout=compact"/>
+</p>
+
+
+
