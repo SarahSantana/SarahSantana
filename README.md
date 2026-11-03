@@ -6,13 +6,9 @@
 
 ## 💁🏻‍♀️ About me:
 
-💻 | stack: Front-End & Back-End => Typescript, HTML & CSS, MongoDB, Nodejs, among others.
+💻 | stack: Front-End & Back-End => Typescript, MongoDB, Nodejs, among others.
 
 🎓 | higher education: Computer Science 
-
-🎨 | hobbies: listen to music, read, drawn, swim and study math.
-
-✨ | I love css and I've got somethings here => https://codepen.io/sarahsantana
 
 </br>
 
