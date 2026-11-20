@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Sarah Santana | Desenvolvedora Front-End" width="100%" />
-</p>
-
+<h1>Sarah Santana Pereira</h1>
 <p align="center">
   <strong>Desenvolvedora Front-End | React · TypeScript · Next.js</strong>
 </p>
