@@ -1,4 +1,4 @@
-<h1>Sarah Santana Pereira</h1>
+<h1 align="center">Sarah Santana Pereira</h1>
 <p align="center">
   <strong>Desenvolvedora Front-End | React · TypeScript · Next.js</strong>
 </p>
